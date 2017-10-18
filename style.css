@@ -33,12 +33,13 @@ a {
 	margin: 0 auto;
 }
 button, a {
-	border: 1px solid #ecf0f1;
+	border: 1px solid rgba(236, 240, 241,0.6);
 	font-size: 20px;
 	width: 500px;
 	height: 30px;
 	color: #ecf0f1;
 	box-shadow: 0 0 10px rgba(236, 240, 241,0.5);
+}
 .fa {
 	font-size: 21px;
 }
